@@ -1,0 +1,7 @@
+#
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
+SPOTIPY_REDIRECT_URI = 'http://localhost:8000/callback'
+
+TIDAL_USERNAME = ''
+TIDAL_PASSWORD = ''

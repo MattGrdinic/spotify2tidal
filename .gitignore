@@ -1,0 +1,8 @@
+/my-flask-app/src/.cache
+/my-flask-app/src/__pycache__
+
+/.venv
+/.cache
+/my-flask-app/src/config.py
+
+/playlists

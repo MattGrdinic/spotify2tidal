@@ -1,0 +1,16 @@
+certifi==2024.12.14
+charset-normalizer==3.4.0
+idna==3.10
+isodate==0.7.2
+mpegdash==0.4.0
+python-dateutil==2.9.0.post0
+ratelimit==2.2.1
+redis==5.2.1
+requests==2.32.3
+six==1.17.0
+spotipy==2.24.0
+tidalapi==0.8.2
+typing_extensions==4.12.2
+urllib3==2.2.3
+Flask==2.3.2
+jsonify==0.5
